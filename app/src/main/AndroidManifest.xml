@@ -10,7 +10,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/ActivityTheme.Load">
-
+        
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
@@ -36,7 +36,7 @@
             android:value="AEdPqrEAAAAIZPjZwgA57uu5q-39UQETeU8uXi8laL6JD1gF1g" />
     </application>
 
-</manifest>anifest>ta
+</manifest>ta
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
         </activity>
